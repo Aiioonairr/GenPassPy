@@ -1,5 +1,5 @@
 # GenPassPy
-A Password Generator with word in french in python
+A Password Generator with french words in python
 
 ### Requirements
 
